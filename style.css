@@ -1,0 +1,28 @@
+#image  {
+    max-width: 100%;
+    margin: 0 auto;
+    position: auto ;
+    padding: 0px;
+    height: auto;
+    display: block;
+}
+#img-caption{
+    text-align: center;
+}
+body{
+   background-color: #EFFFFD;
+}
+#title {
+    text-align: center;
+    color: #051367;
+}
+
+#tribute-info{
+    text-align: center;  
+}
+#tribute-link  {
+    
+}
+#his-life{
+    font-size: 20px;
+}
